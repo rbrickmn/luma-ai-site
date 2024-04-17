@@ -33,6 +33,16 @@
   box-shadow: 0px 0px 10px 0px rgb(47, 39, 206);
 }
 
+.login {
+  background: none;
+  box-shadow: none;
+  color: var(--text);
+}
+
+.login:hover {
+  box-shadow: none;
+}
+
 .container {
   width: 100%;
   margin-left: auto;
